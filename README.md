@@ -12,3 +12,6 @@ this is not an offical real-world project, but solely for the purpose of self-te
 # The Pipeline
 The initial raw dataset is opened up and read by DataLoader class, column names and respective values are normalised and cleaned using DataCleaner class. DataExploration handles 
 query-writing like exploration within the cleaned data, and finally DataCorrelation class engages with finding out correlation between existing independent variables.
+
+
+# Visuals
