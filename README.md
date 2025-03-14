@@ -22,6 +22,6 @@ this is not an offical real-world project, but solely for the purpose of self-te
 - Normalised state names and converted them from 2 lower case letter abbreviations to full state names
 - Ensured that the Transmission values are either 'Automatic', 'Manual', or 'unknown' (imputed for Nulls)
 - Similarly, Ensured that the Color values are either from a list of normal colors or 'unknown' (imputed for Nulls)
-- DataCleaner.save_changes() saves all the changed and created a new csv file in './dataset/cleaned/'
+- DataCleaner.save_changes() saves all the changes and created a new csv file in './dataset/cleaned/'
   
     
