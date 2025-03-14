@@ -26,5 +26,5 @@ this is not an offical real-world project, but solely for the purpose of self-te
   
     
 # Visualisations
-<img src='./data-visuals/revenue_over_time.png' style='width: 500px; height: 500px' />
+<img src='./data-visuals/revenue_over_time.png' style='width: auto; height: 500px' />
 
