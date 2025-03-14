@@ -26,5 +26,5 @@ this is not an offical real-world project, but solely for the purpose of self-te
   
     
 # Visualisations
-![revenue over time]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/pedramjlo/car_sales_analysis/blob/main/data-visuals/revenue_over_time.png?raw=true))
+<a href='./data-visuals/revenue_over_time.png'></a>
 
