@@ -6,19 +6,22 @@ this is not an offical real-world project, but solely for the purpose of self-te
 # Techonologies
 - Interactive Python Notebook (Jupyter Notebook)
 - Pandas
-- Plotly for visualisations
+- Plotly 
 
 
 # The Pipeline
-The initial raw dataset is opened up and read by DataLoader class, column names and respective values are normalised and cleaned using DataCleaner class. DataExploration handles 
-query-writing like exploration within the cleaned data, and finally DataCorrelation class engages with finding out correlation between existing independent variables.
 
-1- Checked for data values' types 
-2- Normalised values like Brand, Color, Transmission type, US states names
-3- Identified the top 10 selling/least profitable cars, brands, states with the highest/lower generated revenue
-4- Identified the correlation between multiple variables like the correlation between;
-  - selling price and total revenue by state
-  - revenue and number of vehicles sold
-  - selling price and odometer (distance a car travelled)
-  - revenue and car condition
+## Data Cleaning
+- Imputed values of string (object in Pandas) type containing null values with the mode of the column
+- Imputed values of integer/float type containing null values with the mean of the column
+- Removed all duplicate rows
+- Applied camle-casing on some column header titles
+- Capitalised column header titles
+- Validated the data type of values column by column
+- Normalised Make titles, merged TK with the brands, also abbreviations to full brand names
+- Normalised state names and converted them from 2 lower case letter abbreviations to full state names
+- Ensured that the Transmission values are either 'Automatic', 'Manual', or 'unknown' (imputed for Nulls)
+- Similarly, Ensured that the Color values are either from a list of normal colors or 'unknown' (imputed for Nulls)
+- DataCleaner.save_changes() saves all the changes and created a new csv file in './dataset/cleaned/'
+  
     
