@@ -37,3 +37,5 @@ this is not an offical real-world project, but solely for the purpose of self-te
 
 <img src='./data-visuals/transmission_sales.png' style='width: auto; height: 500px' />
 
+<img src='./data-visuals/top_20_sellers.png' style='width: auto; height: 500px' />
+
