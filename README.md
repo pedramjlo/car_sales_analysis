@@ -30,3 +30,6 @@ this is not an offical real-world project, but solely for the purpose of self-te
 
 <img src='./data-visuals/top_20_selling_brands.png' style='width: auto; height: 500px' />
 
+
+<img src='./data-visuals/most_expensive_ccars.png' style='width: auto; height: 500px' />
+
