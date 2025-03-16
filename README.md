@@ -11,7 +11,7 @@ this is not an offical real-world project, but solely for the purpose of self-te
 
 # The Pipeline
 
-## Data Cleaning
+## Data Cleaning (Pandas)
 - Imputed values of string (object in Pandas) type containing null values with the mode of the column
 - Imputed values of integer/float type containing null values with the mean of the column
 - Removed all duplicate rows
@@ -25,7 +25,7 @@ this is not an offical real-world project, but solely for the purpose of self-te
 - DataCleaner.save_changes() saves all the changes and created a new csv file in './dataset/cleaned/'
   
     
-# Visualisations
+# Visualisations (Plotly)
 <img src='./data-visuals/revenue_over_time.png' style='width: auto; height: 500px' />
 
 <img src='./data-visuals/top_20_selling_brands.png' style='width: auto; height: 500px' />
