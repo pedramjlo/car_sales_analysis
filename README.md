@@ -42,6 +42,8 @@ this is not an offical real-world project, but solely for the purpose of self-te
 - US. terittories are amongst least profitable state, including Hawaii, Puerto Rico, and Alaska
 - Only 10 states have generated over $1M
 - Selling price plays a moderately weak role in the generation of revenue (0.3 coefficiency).
+- The Great Depression did not affect our sales significantly. Experiencing a 19.17% incraese in 2007-2008, and only 16.8% decrease in 2008-2009.
+- 2010-2011 witnessed a massive spike in revenue increase. Going from $3.06M to $6.6M (53.6%) followed by 26.6% in 2011-2012 ($6.6M to $9M).
   
     
 ## Visualisations (Plotly)
