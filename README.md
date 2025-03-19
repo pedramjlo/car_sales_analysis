@@ -39,7 +39,7 @@ this is not an offical real-world project, but solely for the purpose of self-te
 - A strong positive correlation between number of vehicles and the revenue of a brand. Quantity and consequently more options is a deciding factor.
 - Condition of the cars could quite effectively be a strong reason for customers to buy a car.
 - The number on odometer is often overlooked by customer and it doesn't influence the sales tremendously.
-- US. terittories are amongst least profitable state, including Hawaii, Puerto Rico, and Alaska
+- US. overseas terittories are amongst least profitable state, including Hawaii, Puerto Rico, and Alaska
 - Only 10 states have generated over $1M
 - Selling price plays a moderately weak role in the generation of revenue (0.3 coefficiency).
 - The Great Depression did not affect our sales significantly. Experiencing a 19.17% incraese in 2007-2008, and only 16.8% decrease in 2008-2009.
