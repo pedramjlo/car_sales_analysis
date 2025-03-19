@@ -44,6 +44,8 @@ this is not an offical real-world project, but solely for the purpose of self-te
 - Selling price plays a moderately weak role in the generation of revenue (0.3 coefficiency).
 - The Great Depression did not affect our sales significantly. Experiencing a 19.17% incraese in 2007-2008, and only 16.8% decrease in 2008-2009.
 - 2010-2011 witnessed a massive spike in revenue increase. Going from $3.06M to $6.6M (53.6%) followed by 26.6% in 2011-2012 ($6.6M to $9M).
+- Between 2012 and 2013, sales stalled, but a sharp increase in 2013-14.
+- in 2014, a rapid decrease resulted in sales dropping from $12.01M to $3.31M (72.43% decrease).
   
     
 ## Visualisations (Plotly)
